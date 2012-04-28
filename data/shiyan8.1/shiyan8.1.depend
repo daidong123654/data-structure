@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1332667372 source:c:\users\daidong\desktop\数据结构\程序\实验8.1.cpp
+	<iostream>
+	<malloc.h>
+	<stdio.h>
+

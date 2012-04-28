@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1335534204 source:c:\users\daidong\desktop\实验9.2\main.cpp
+	<iostream>
+	<stdio.h>
+	<malloc.h>
+	"graph.h"
+
+1335530021 c:\users\daidong\desktop\实验9.2\graph.h
+
+1335587339 source:c:\users\daidong\desktop\数据结构\程序\实验9.2\main.cpp
+	<iostream>
+	<stdio.h>
+	<malloc.h>
+	"graph.h"
+
+1335530021 c:\users\daidong\desktop\数据结构\程序\实验9.2\graph.h
+
